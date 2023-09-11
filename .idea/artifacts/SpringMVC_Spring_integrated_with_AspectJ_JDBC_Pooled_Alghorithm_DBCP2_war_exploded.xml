@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SpringMVC-Spring_integrated_with_AspectJ-JDBC-Pooled_Alghorithm-DBCP2:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpringMVC_Spring_integrated_with_AspectJ_JDBC_Pooled_Alghorithm_DBCP2_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SpringMVC-Spring_integrated_with_AspectJ-JDBC-Pooled_Alghorithm-DBCP2/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SpringMVC-Spring_integrated_with_AspectJ-JDBC-Pooled_Alghorithm-DBCP2" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
